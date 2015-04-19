@@ -4,7 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
-Basic 
+## Basic 
 
 echo = TRUE  # Always make code visible
 options(scipen = 1)  # Turn off scientific notations for numbers
