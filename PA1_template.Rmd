@@ -25,6 +25,7 @@ head(noNA)
 
 dim(noNA)
 
+
 library(ggplot2)
 
 . Make a histogram of the total number of steps taken each day
